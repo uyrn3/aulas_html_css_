@@ -9,3 +9,11 @@ p {
     font-size: 20px;
     line-height: 36px;
 }
+
+h2 {
+    color: blueviolet;
+}
+
+.fundo-verde {
+    background: #0f0;
+}
