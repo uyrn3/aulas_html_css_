@@ -1,3 +1,11 @@
+#titulo-id {
+    color: purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2 {
     font-family: fantasy;
     color: darkgray;
@@ -16,4 +24,13 @@ h2 {
 
 .fundo-verde {
     background: #0f0;
+}
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-pricipal {
+    background: black;
+    color: white;
 }
