@@ -1,0 +1,27 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    font-size: 2rem;
+}
+.cor-a{
+    color: yellow;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+h2{
+    color: blue;
+}
+
+.fundo-verde{
+    background-color: green;
+}
+.fonte-g{
+    font-size: 50px;
+}
+#titulo-p{
+    background: black;
+    color: white;
+}
